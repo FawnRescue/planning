@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-13T13:50:03.489Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="AxJNofoabotqHABiW-AA" version="22.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-13T14:01:34.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="t6K0hbKOQJJVPAQ6rDDd" version="22.1.8" type="github">
   <diagram name="Page-1" id="ru4d4PAZFVmnzgpyi2bY">
-    <mxGraphModel dx="1167" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2580" dy="958" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -38,43 +38,55 @@
           <mxGeometry x="1100" y="100" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-6" value="&lt;div&gt;Homepage&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="190" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="200" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-8" value="&lt;div&gt;Hangar&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="310" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="1170" y="890" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-9" value="&lt;div&gt;Group&lt;/div&gt;&lt;div&gt;List&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="541" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="850" y="780" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-10" value="&lt;div&gt;Group&lt;/div&gt;&lt;div&gt;Finder&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="660" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="850" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-11" value="&lt;div&gt;Group&lt;/div&gt;&lt;div&gt;Detail&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="770" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="960" y="670" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-12" value="&lt;div&gt;Aircraft&lt;/div&gt;&lt;div&gt;Detail&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="408" y="470" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="8jOdEgM8JWHdfi7jj1g8-13" value="&lt;div&gt;Group&lt;/div&gt;&lt;div&gt;Detail&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="890" y="470" width="80" height="80" as="geometry" />
+          <mxGeometry x="1170" y="790" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-15" value="&lt;div&gt;Mission&lt;/div&gt;&lt;div&gt;List&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="770" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-16" value="&lt;div&gt;Flight Date&lt;/div&gt;&lt;div&gt;List&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="244" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="244" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-17" value="&lt;div&gt;Invite&lt;/div&gt;&lt;div&gt;List&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="370" y="630" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="760" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-18" value="invite Model" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="1190" y="100" width="60" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-19" value="&lt;div&gt;Flight Date&lt;/div&gt;&lt;div&gt;Detail&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="244" y="750" width="80" height="80" as="geometry" />
+          <mxGeometry x="140" y="650" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="8jOdEgM8JWHdfi7jj1g8-20" value="&lt;div&gt;Mission&lt;/div&gt;&lt;div&gt;Detail&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="120" y="740" width="80" height="80" as="geometry" />
+          <mxGeometry x="621" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8jOdEgM8JWHdfi7jj1g8-21" value="Profile" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="30" y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8jOdEgM8JWHdfi7jj1g8-22" value="&lt;div&gt;Planning&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8jOdEgM8JWHdfi7jj1g8-23" value="&lt;div&gt;Mission&lt;/div&gt;&lt;div&gt;Creator&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="510" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8jOdEgM8JWHdfi7jj1g8-25" value="&lt;div&gt;Flight Date&lt;br&gt;&lt;/div&gt;&lt;div&gt;Creator&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="420" y="660" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8jOdEgM8JWHdfi7jj1g8-26" value="Group" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="850" y="890" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
