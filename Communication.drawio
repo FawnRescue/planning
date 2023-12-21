@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T17:20:22.811Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="1v1UoJUP7le3ImrdxIdk" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-21T17:25:54.084Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:120.0) Gecko/20100101 Firefox/120.0" etag="4eLD7j-dlLRh1ujzq1qD" version="22.1.11" type="github">
   <diagram name="Page-1" id="nDaKL3ebdBdOYoQSPej4">
     <mxGraphModel dx="2350" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -61,8 +61,8 @@
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-14" value="&lt;h1&gt;Backend&lt;br&gt;&lt;/h1&gt;&lt;div&gt;A supabase backend including a phoenix realtime service, which opens a channel for communication between each&amp;nbsp;&lt;/div&gt;&lt;div&gt;pilot / drone pair&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-95" y="380" width="190" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="FN8Vr58lcdlTgOEtNpjS-19" value="&lt;h1&gt;Frontend&lt;br&gt;&lt;/h1&gt;The pilot uses the FawnRescue App to communicate with the Backend." style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-400" y="380" width="190" height="140" as="geometry" />
+        <mxCell id="FN8Vr58lcdlTgOEtNpjS-19" value="&lt;h1&gt;Frontend&lt;br&gt;&lt;/h1&gt;&lt;div&gt;The pilot uses the FawnRescue App to communicate with the Backend.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Using the realtime-kotlin Plugin for the supabase Client library, commands can be send to the provided channel&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="380" width="190" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
