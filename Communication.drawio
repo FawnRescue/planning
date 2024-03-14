@@ -1,16 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T19:53:47.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="tfRyhZ1-Evq6zOvij26t" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-14T14:22:10.819Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="C5LV-_F5011ClMPSxm9g" version="23.1.1" type="github">
   <diagram name="Page-1" id="nDaKL3ebdBdOYoQSPej4">
-    <mxGraphModel dx="2284" dy="1838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2250" dy="1844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" parent="1" source="FN8Vr58lcdlTgOEtNpjS-1" target="FN8Vr58lcdlTgOEtNpjS-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="FN8Vr58lcdlTgOEtNpjS-1" target="aVtWpzRtRZH0ED8oaGCE-3">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" parent="1" source="FN8Vr58lcdlTgOEtNpjS-1" target="aVtWpzRtRZH0ED8oaGCE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" edge="1" parent="1" source="FN8Vr58lcdlTgOEtNpjS-1" target="aVtWpzRtRZH0ED8oaGCE-4">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontSize=14;" parent="1" source="FN8Vr58lcdlTgOEtNpjS-1" target="aVtWpzRtRZH0ED8oaGCE-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1;fontSize=14;" parent="1" vertex="1">
@@ -33,7 +33,7 @@
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-6" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;PixHawk 6C&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="120" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-12" value="USB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="FN8Vr58lcdlTgOEtNpjS-7" target="aVtWpzRtRZH0ED8oaGCE-1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-12" value="USB" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontStyle=1;fontSize=14;" parent="1" source="FN8Vr58lcdlTgOEtNpjS-7" target="aVtWpzRtRZH0ED8oaGCE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-7" value="Raspberry Pi 4" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
@@ -45,7 +45,7 @@
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-11" value="&lt;h1&gt;Flight Computer&lt;br&gt;&lt;/h1&gt;&lt;div&gt;Raspberry Pi 4 running OpenHD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;On startup a mavsdk server and a Kotlin script is started&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The kotlin script uses mavsdk-java to communicate with the mavsdk server.&lt;/div&gt;&lt;div&gt;The server then uses mavlink to send commands and receive telemetry to the flight controller.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;The Kotlin script also handles the connection with the realtime services of the supabase backend&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="75" y="400" width="330" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-11" value="LTE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="FN8Vr58lcdlTgOEtNpjS-12" target="aVtWpzRtRZH0ED8oaGCE-1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-11" value="LTE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontStyle=1;fontSize=14;" parent="1" source="FN8Vr58lcdlTgOEtNpjS-12" target="aVtWpzRtRZH0ED8oaGCE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-12" value="Supabase" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
@@ -68,29 +68,38 @@
         <mxCell id="FN8Vr58lcdlTgOEtNpjS-19" value="&lt;h1&gt;Frontend&lt;br&gt;&lt;/h1&gt;&lt;div&gt;The pilot uses the FawnRescue App to communicate with the Backend.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Using the realtime-kotlin Plugin for the supabase Client library, commands can be send to the provided channel&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-385" y="400" width="190" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-10" value="LTE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="aVtWpzRtRZH0ED8oaGCE-1" target="aVtWpzRtRZH0ED8oaGCE-3">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-10" value="LTE" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;fontStyle=1;fontSize=14;" parent="1" source="aVtWpzRtRZH0ED8oaGCE-1" target="aVtWpzRtRZH0ED8oaGCE-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-1" value="SIM7600" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-1" value="SIM7600" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-120" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-8" value="s.Bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="aVtWpzRtRZH0ED8oaGCE-2" target="FN8Vr58lcdlTgOEtNpjS-6">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-8" value="s.Bus" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" parent="1" source="aVtWpzRtRZH0ED8oaGCE-2" target="FN8Vr58lcdlTgOEtNpjS-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-2" value="RC Reciever" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-2" value="RC Reciever" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-120" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-3" value="QGroundControl" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-3" value="QGroundControl" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-350" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-7" value="ELRS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" edge="1" parent="1" source="aVtWpzRtRZH0ED8oaGCE-4" target="aVtWpzRtRZH0ED8oaGCE-2">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-7" value="ELRS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=1;fontSize=14;" parent="1" source="aVtWpzRtRZH0ED8oaGCE-4" target="aVtWpzRtRZH0ED8oaGCE-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-4" value="RC Controller" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-4" value="RC Controller" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="-350" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="aVtWpzRtRZH0ED8oaGCE-15" value="&lt;h1&gt;Debug Interface&lt;/h1&gt;&lt;p&gt;RC Controller connected with the drone for manual testing and backup.&lt;/p&gt;&lt;p&gt;QGroundControl for configuring the drone and monitor status&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aVtWpzRtRZH0ED8oaGCE-15" value="&lt;h1&gt;Debug Interface&lt;/h1&gt;&lt;p&gt;RC Controller connected with the drone for manual testing and backup.&lt;/p&gt;&lt;p&gt;QGroundControl for configuring the drone and monitor status&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-385" y="-100" width="190" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="HxDPf90xtki0wxAKNuue-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HxDPf90xtki0wxAKNuue-2" target="FN8Vr58lcdlTgOEtNpjS-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="HxDPf90xtki0wxAKNuue-2" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="298" width="78" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="HxDPf90xtki0wxAKNuue-5" value="&lt;h1&gt;Thermal &amp;amp; RGB Camera &lt;br&gt;&lt;/h1&gt;Two cameras, a SeekTheraml Mosaic core thermal camera and a Arducam RGB camera&lt;br&gt;&lt;br&gt;On a Gimbal to improve image quality&lt;br&gt;&lt;br&gt;Image data is collected by a python script on the raspberry and send via a Socket to the Kotlin script to be uploaded to supabase together with the current coordinates" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="70" width="330" height="260" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
