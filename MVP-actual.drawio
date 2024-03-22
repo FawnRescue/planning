@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-22T10:04:02.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="MegabB28wo_B-GPlb5CQ" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-22T14:46:50.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="SzYLngWD3AcHrYhwWwQl" version="24.0.6" type="github">
   <diagram name="Page-1" id="rYbIxNVRNvEQ2pxCFXKR">
-    <mxGraphModel dx="840" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1374" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,18 +76,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Jt7Qyd84nSc_dPe-WE5D-56" value="&lt;div&gt;Create mission&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1095" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1106" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jt7Qyd84nSc_dPe-WE5D-58" value="&lt;div&gt;Add/Edit&lt;/div&gt;&lt;div&gt;&amp;nbsp;Flightplan&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1335" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jt7Qyd84nSc_dPe-WE5D-61" value="&lt;div&gt;Add/Edit &lt;br&gt;&lt;/div&gt;&lt;div&gt;Flight Date&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1335" y="260" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Jt7Qyd84nSc_dPe-WE5D-64" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1340" y="395.4000000000001" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="1335" y="270" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Jt7Qyd84nSc_dPe-WE5D-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jt7Qyd84nSc_dPe-WE5D-64" target="Jt7Qyd84nSc_dPe-WE5D-91" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -95,16 +90,19 @@
         <mxCell id="Jt7Qyd84nSc_dPe-WE5D-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jt7Qyd84nSc_dPe-WE5D-64" target="Jt7Qyd84nSc_dPe-WE5D-95" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-64" value="&lt;div&gt;mark self as active&amp;nbsp; for flight date&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1106" y="365" width="120" height="60" as="geometry" />
+        <mxCell id="7yRAXmDouR8Cqs2WBBP3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Jt7Qyd84nSc_dPe-WE5D-64" target="Jt7Qyd84nSc_dPe-WE5D-71">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-71" value="new detection is discovered by the aircraft" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-64" value="Select Flightdate" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1106" y="450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-71" value="View Detections" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1346" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-91" value="start the aircraft" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-91" value="&lt;div&gt;Send Commands&lt;/div&gt;&lt;div&gt;to Aircraft&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1346" y="450" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-95" value="emergency land the aircraft" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Jt7Qyd84nSc_dPe-WE5D-95" value="View Aircraft State" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1346" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rhgz1gI8AxDQsBpAq8Bm-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="Jt7Qyd84nSc_dPe-WE5D-104" target="Jt7Qyd84nSc_dPe-WE5D-117" edge="1">
