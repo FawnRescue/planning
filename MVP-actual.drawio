@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-24T14:52:31.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="IVpK-bhhmCazlkR-jAP_" version="24.0.6" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-03-24T14:56:06.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="uPWq7aVTbPFLtM4i2uUC" version="24.0.6" type="github" pages="4">
   <diagram name="Screens" id="rYbIxNVRNvEQ2pxCFXKR">
     <mxGraphModel dx="2569" dy="986" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -231,7 +231,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="tkOokaPy6NiRN9PMPQM5" name="Page-4">
-    <mxGraphModel dx="1500" dy="797" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2333" dy="1240" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,7 +290,7 @@
         </mxCell>
         <mxCell id="sx5tWea8pXAtMruBLQSV-31" value="Adds images at checkpoints" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sx5tWea8pXAtMruBLQSV-30">
           <mxGeometry x="0.4423" y="-2" relative="1" as="geometry">
-            <mxPoint x="129" y="-2" as="offset" />
+            <mxPoint x="41" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sx5tWea8pXAtMruBLQSV-5" value="&lt;div&gt;Drone&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -368,7 +368,7 @@
             <mxPoint x="-3" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sx5tWea8pXAtMruBLQSV-32" value="&lt;div&gt;Image analisys&amp;nbsp;&lt;/div&gt;&lt;div&gt;server&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="sx5tWea8pXAtMruBLQSV-32" value="&lt;div&gt;Image analysis&lt;br&gt;&lt;/div&gt;&lt;div&gt;server&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="670" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sx5tWea8pXAtMruBLQSV-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sx5tWea8pXAtMruBLQSV-34" target="sx5tWea8pXAtMruBLQSV-32">
@@ -394,6 +394,30 @@
         </mxCell>
         <mxCell id="sx5tWea8pXAtMruBLQSV-49" value="&lt;div&gt;Adds flightdate&lt;/div&gt;&lt;div&gt;&amp;nbsp;with aircraft id&lt;/div&gt;&lt;div&gt;&amp;nbsp;&quot;4b22acf2&quot;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="760.0005605468396" y="600.0045893095878" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-52" value="Realtime&lt;div&gt;channel&lt;br&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-53" value="&lt;div&gt;Mobile App&lt;/div&gt;&lt;div&gt;Screen&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-54" value="Database Table" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-55" value="&lt;div&gt;Standalone&lt;/div&gt;&lt;div&gt;Server&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="820" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-57" value="Supabase" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-58" value="&lt;div&gt;Mobile&lt;/div&gt;&lt;div&gt;App&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-59" value="Drone" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="370" y="910" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sx5tWea8pXAtMruBLQSV-60" value="Image Analysis" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
