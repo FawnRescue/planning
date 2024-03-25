@@ -1,9 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T14:29:12.189Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.0.6" etag="DQHfGZc2NKn0VPqH1znn" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T14:37:44.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="a5lcN4Puf3vcChJ82KiG" version="24.0.6" type="github">
   <diagram name="Page-1" id="SP0Z641HaMjEefX4H5Pm">
-    <mxGraphModel>
+    <mxGraphModel dx="2313" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qFjn44XNMLY__ncIcoNS-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="240" width="360" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-1" target="qFjn44XNMLY__ncIcoNS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-1" value="PX4 Gazebo Simulator" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-2" target="qFjn44XNMLY__ncIcoNS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-2" target="qFjn44XNMLY__ncIcoNS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-2" value="MAVSDK Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-3" target="qFjn44XNMLY__ncIcoNS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-3" target="qFjn44XNMLY__ncIcoNS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-3" value="&lt;div&gt;Flightcomputer&amp;nbsp;&lt;/div&gt;&lt;div&gt;Code&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-4" target="qFjn44XNMLY__ncIcoNS-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-4" target="qFjn44XNMLY__ncIcoNS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-4" target="qFjn44XNMLY__ncIcoNS-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-4" value="Supabase" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-5" target="qFjn44XNMLY__ncIcoNS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-5" value="Mobile App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Development&lt;br&gt;&lt;/h1&gt;&lt;p&gt;In order to develop the flightcomputer code, the mobile app and the image analysis server, a option to integrate these systems was necessary.&lt;/p&gt;&lt;p&gt;This Diagram describes the local development setup&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="50" width="310" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-7" target="qFjn44XNMLY__ncIcoNS-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-7" value="&lt;div&gt;Android Studio&lt;/div&gt;&lt;div&gt;Simulator&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-18" value="Local" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-20" target="qFjn44XNMLY__ncIcoNS-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qFjn44XNMLY__ncIcoNS-20" value="Image Analysis Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
