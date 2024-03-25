@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-25T14:37:44.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="a5lcN4Puf3vcChJ82KiG" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-25T14:39:01.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="iY_5mXvklti7L638DkoL" version="24.0.6" type="github">
   <diagram name="Page-1" id="SP0Z641HaMjEefX4H5Pm">
     <mxGraphModel dx="2313" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -49,7 +49,7 @@
         <mxCell id="qFjn44XNMLY__ncIcoNS-5" value="Mobile App" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="qFjn44XNMLY__ncIcoNS-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Development&lt;br&gt;&lt;/h1&gt;&lt;p&gt;In order to develop the flightcomputer code, the mobile app and the image analysis server, a option to integrate these systems was necessary.&lt;/p&gt;&lt;p&gt;This Diagram describes the local development setup&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+        <mxCell id="qFjn44XNMLY__ncIcoNS-6" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Local Development&lt;br&gt;&lt;/h1&gt;&lt;p&gt;In order to develop the flightcomputer code, the mobile app or the image analysis server, an option to integrate these systems is necessary.&lt;/p&gt;&lt;p&gt;This Diagram describes the local development setup&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
           <mxGeometry x="270" y="50" width="310" height="120" as="geometry" />
         </mxCell>
         <mxCell id="qFjn44XNMLY__ncIcoNS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qFjn44XNMLY__ncIcoNS-7" target="qFjn44XNMLY__ncIcoNS-5">
