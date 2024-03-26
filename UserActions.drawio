@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-26T10:01:42.849Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="WBFMh3JfXQuoDCfbd0Nk" version="24.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-26T10:02:54.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="OHsuPw7xODUPI3b0Rsg5" version="24.1.0" type="github">
   <diagram name="Page-1" id="r3rkmFNmLRt66x1h-lxk">
     <mxGraphModel dx="4220" dy="2720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,6 +17,9 @@
         </mxCell>
         <mxCell id="8AMOiluZaFN2airyjKjj-2" value="&lt;div&gt;Create mission&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1230" y="-370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PzSxO97mQGyqJCGwhIO-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8AMOiluZaFN2airyjKjj-4" target="_PzSxO97mQGyqJCGwhIO-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8AMOiluZaFN2airyjKjj-4" value="Create Flightplan" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1425" y="-370" width="120" height="60" as="geometry" />
@@ -117,13 +120,13 @@
           <mxGeometry x="1657" y="-30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8AMOiluZaFN2airyjKjj-40" value="RTH the aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="248" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8AMOiluZaFN2airyjKjj-41" value="emergency land the aircraft" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="320" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="325" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8AMOiluZaFN2airyjKjj-42" value="assign different user as pilot" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1420" y="400" width="120" height="60" as="geometry" />
+          <mxGeometry x="1420" y="403" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8AMOiluZaFN2airyjKjj-43" value="inspect detection and assign it to helper" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1420" y="480" width="120" height="60" as="geometry" />
@@ -190,6 +193,9 @@
         </mxCell>
         <mxCell id="_PzSxO97mQGyqJCGwhIO-19" value="attach aircraft to group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1040" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_PzSxO97mQGyqJCGwhIO-22" value="Change path algorithm" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1655" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
