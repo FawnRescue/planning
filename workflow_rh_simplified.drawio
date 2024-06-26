@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T11:45:17.983Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Amv1MaRZ_n9hDy-ywLGN" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T11:48:59.105Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ZqMKbKUJiuEXJAz8HRFp" version="24.6.3" type="github">
   <diagram name="Page-1" id="fXdbvRqRzx_6RrFymYvP">
     <mxGraphModel dx="2447" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,7 +28,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-43" value="ReflectDetect" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" width="580" height="390" as="geometry" />
+          <mxGeometry x="-10" width="580" height="390" as="geometry">
+            <mxRectangle x="-10" width="110" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="cwKZqD7MPk4A5C6JW0vf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-10" target="GMZTZUK8FvGoUD8qmyYf-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -76,6 +78,14 @@
         <mxCell id="cwKZqD7MPk4A5C6JW0vf-1" value="Interpolate  for images without panels" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
           <mxGeometry x="225" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-42" target="GMZTZUK8FvGoUD8qmyYf-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-150" y="30" />
+              <mxPoint x="285" y="30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GMZTZUK8FvGoUD8qmyYf-59" target="GMZTZUK8FvGoUD8qmyYf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="80" as="targetPoint" />
@@ -98,14 +108,6 @@
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-69" value="Collect spectral signatures of panels (0%, x, y, z, 100%)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="GMZTZUK8FvGoUD8qmyYf-42" target="GMZTZUK8FvGoUD8qmyYf-77" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-160" y="30" />
-              <mxPoint x="265" y="30" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
