@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T10:56:33.675Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="O6KC8FC0ijAsaugvfVBN" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T11:44:30.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Xv_16oJb7uAmbbPN5Mvd" version="24.6.3" type="github">
   <diagram name="Page-1" id="fXdbvRqRzx_6RrFymYvP">
-    <mxGraphModel dx="3163" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2447" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,57 +28,53 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-43" value="ReflectDetect" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-10" width="740" height="790" as="geometry" />
+          <mxGeometry x="-10" width="570" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-10" target="GMZTZUK8FvGoUD8qmyYf-19">
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-10" target="GMZTZUK8FvGoUD8qmyYf-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-10" value="Find coordinates of reference panel corners " style="rounded=1;whiteSpace=wrap;html=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="140" y="165" width="120" height="60" as="geometry" />
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-10" value="Find panel corners " style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-19" target="GMZTZUK8FvGoUD8qmyYf-75" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-19" value="&lt;div&gt;Extract panel intensity in images&amp;nbsp;&lt;/div&gt;&lt;div&gt;containing all panels &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="40" y="133" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-19" value="&lt;div&gt;Extract panel intensity of each image containing all panels &lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="140" y="288" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-75" target="GMZTZUK8FvGoUD8qmyYf-31">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-75" value="Associate the DN extracted from the panels with the measured reflectance data&amp;nbsp; " style="rounded=1;whiteSpace=wrap;html=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="140" y="422" width="120" height="100" as="geometry" />
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-19" target="GMZTZUK8FvGoUD8qmyYf-31" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="200" y="522" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-77" target="GMZTZUK8FvGoUD8qmyYf-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="255" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-77" value="&lt;div&gt;Detect panels in images using &lt;br&gt;&lt;/div&gt;object detection" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="360" y="165" width="120" height="60" as="geometry" />
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-77" value="&lt;div&gt;Detect panels using &lt;br&gt;&lt;/div&gt;object detection" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="225" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-31" value="Fit linear function" style="rounded=1;whiteSpace=wrap;html=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="140" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-31" value="Fit linear function" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-33" value="Calibrate orthophotos" style="rounded=1;whiteSpace=wrap;html=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="570" y="500" width="120" height="60" as="geometry" />
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-33" value="&lt;div&gt;Calibrate orthophotos&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="430" y="297.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="cwKZqD7MPk4A5C6JW0vf-1" target="GMZTZUK8FvGoUD8qmyYf-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-32" value="&lt;div&gt;Calibrate images&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
-          <mxGeometry x="570" y="660" width="120" height="60" as="geometry" />
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-32" value="&lt;div&gt;Calibrate images&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="430" y="222.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-31" target="cwKZqD7MPk4A5C6JW0vf-1">
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="GMZTZUK8FvGoUD8qmyYf-31" target="cwKZqD7MPk4A5C6JW0vf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="680" as="sourcePoint" />
             <mxPoint x="690" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="GMZTZUK8FvGoUD8qmyYf-43" source="cwKZqD7MPk4A5C6JW0vf-1" target="GMZTZUK8FvGoUD8qmyYf-32">
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="GMZTZUK8FvGoUD8qmyYf-43" source="cwKZqD7MPk4A5C6JW0vf-1" target="GMZTZUK8FvGoUD8qmyYf-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-1" value="Interpolate between linear functions for images without panels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="GMZTZUK8FvGoUD8qmyYf-43">
-          <mxGeometry x="360" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-1" value="Interpolate  for images without panels" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=1" parent="GMZTZUK8FvGoUD8qmyYf-43" vertex="1">
+          <mxGeometry x="225" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GMZTZUK8FvGoUD8qmyYf-59" target="GMZTZUK8FvGoUD8qmyYf-10" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -88,7 +84,7 @@
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-64" value="Data Collection" style="swimlane;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-710" width="410" height="270" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-3" value="&lt;div&gt;Collect UAV images (EXIF data embedded)&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-3" value="&lt;div&gt;Collect UAV images &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
           <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-64" source="GMZTZUK8FvGoUD8qmyYf-65" target="GMZTZUK8FvGoUD8qmyYf-3" edge="1">
@@ -97,14 +93,19 @@
         <mxCell id="GMZTZUK8FvGoUD8qmyYf-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="GMZTZUK8FvGoUD8qmyYf-64" source="GMZTZUK8FvGoUD8qmyYf-65" target="GMZTZUK8FvGoUD8qmyYf-69" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-65" value="&lt;div&gt;Place reference panels in scene and collect coordinates of panel corners &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-65" value="&lt;div&gt;Place panels in scene and collect coordinates&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
           <mxGeometry x="30" y="50" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="GMZTZUK8FvGoUD8qmyYf-69" value="Collect spectral signatures of known reflectance panels (0%, x, y, z, 100%)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
+        <mxCell id="GMZTZUK8FvGoUD8qmyYf-69" value="Collect spectral signatures of panels (0%, x, y, z, 100%)" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="GMZTZUK8FvGoUD8qmyYf-64" vertex="1">
           <mxGeometry x="240" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cwKZqD7MPk4A5C6JW0vf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="GMZTZUK8FvGoUD8qmyYf-42" target="GMZTZUK8FvGoUD8qmyYf-77">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cwKZqD7MPk4A5C6JW0vf-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" parent="1" source="GMZTZUK8FvGoUD8qmyYf-42" target="GMZTZUK8FvGoUD8qmyYf-77" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-160" y="30" />
+              <mxPoint x="265" y="30" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
